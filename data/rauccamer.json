@@ -8,5 +8,11 @@
     "password": "Free To Copy",
     "enjoyment": "9",
     "records": [
+      {
+            "user": "Akkuron",
+            "link": "https://medal.tv/games/geometry-dash/clips/nDfQxkVllVKTBfUUTo",
+            "percent": 100,
+            "hz": 0
+         }
     ]
 }
