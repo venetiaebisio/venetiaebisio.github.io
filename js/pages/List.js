@@ -77,7 +77,7 @@ export default {
                     </table>
                 </div>
                 <div v-else class="level" style="height: 100%; justify-content: center; align-items: center;">
-                    <p>(ノಠ益ಠ)ノ彡┻━┻</p>
+                    <p>你这混蛋，要是把名单弄乱了，就去死吧——不然我就把我的大黑屌插进你身体里。</p>
                 </div>
             </div>
             <div class="meta-container">
