@@ -3,10 +3,16 @@
     "name": "Shitty AG2",
     "creators": [1],
     "verifier": "GD_Chicken",
-    "verification": "gia",
+    "verification": "https://www.youtube.com/watch?v=Rcn7Uc5Zoso",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "1",
     "records": [
+        {
+            "user": "THTDUD",
+            "link": "https://www.youtube.com/watch?v=Rcn7Uc5Zoso",
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
