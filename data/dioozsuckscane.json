@@ -3,7 +3,7 @@
     "name": "Shitty DIOOZ SUCKS",
     "creators": [1],
     "verifier": "Ale3xg",
-    "verification": "bleh",
+    "verification": "https://youtu.be/Rcn7Uc5Zoso",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "10",
@@ -13,6 +13,12 @@
             "link": "https://youtu.be/KcIY08gcn9c?is=Gv2zI1SfvfR1ut7p",
             "percent": 100,
             "hz": 60
+           },
+            {
+            "user": "THTDUD",
+            "link": "https://youtu.be/Rcn7Uc5Zoso",
+            "percent": 100,
+            "hz": 120
          }
     ]
 }
