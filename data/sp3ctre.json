@@ -7,5 +7,11 @@
     "percentToQualify": "100",
     "enjoyment": "0",
     "records": [
+        {
+            "user": "Gyngyx",
+            "link": "https://youtu.be/wM_3f-imCKA?si=LsfWkHVsWlKlV4_8",
+            "percent": 100,
+            "hz": 60
+         }
     ]
 }
