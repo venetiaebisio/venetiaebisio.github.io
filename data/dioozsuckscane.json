@@ -25,6 +25,12 @@
             "link": "https://youtu.be/ojBzMJSUwOQ?si=L2W1UoEnxJOZNW2r",
             "percent": 100,
             "hz": 60
+           },
+            {
+            "user": "Nest",
+            "link": "https://youtu.be/vFTUFk7cVSs",
+            "percent": 100,
+            "hz": 180
          }
     ]
 }
