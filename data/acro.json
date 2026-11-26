@@ -2,10 +2,17 @@
     "id": 152973662,
     "name": "Shitty Acropolis",
     "creators": [1],
-    "verifier": "Ale3xg",
+    "verifier": "trovatro11",
     "verification": "https://youtu.be/yUEycfruo5w?is=j56ipgqGHyp6Zpri",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "enjoyment": "9",
     "records": [
+     {
+            "user": "GD_Chicken",
+            "link": "https://www.youtube.com/watch?v=1oD4HwxS39M",
+            "percent": 100,
+            "hz": 0
+         }
     ]
+}
