@@ -8,5 +8,11 @@
     "password": "Free To Copy",
     "enjoyment": "9",
     "records": [
+     {
+            "user": "Tumbaburros",
+            "link": "https://medal.tv/it/games/geometry-dash/clips/nVObVCaSllJNmAzbM?invite=cr-MSxkRmwsNTg2MjEwMzg0",
+            "percent": 100,
+            "hz": 3000
+         }
     ]
 }
