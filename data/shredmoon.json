@@ -8,5 +8,11 @@
     "password": "Free To Copy",
     "enjoyment": "9",
     "records": [
+      {
+            "user": "Nest",
+            "link": "https://youtu.be/qg9VrMs1WKQ",
+            "percent": 100,
+            "hz": 180
+         }
     ]
 }
